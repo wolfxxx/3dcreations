@@ -1,0 +1,60 @@
+{
+  "source": "C:/Users/PC/Documents/GITHUBprojects/3dcreations/boy2/tripo01/source.glb",
+  "source_sha256": "e6849eaafc0f6735f97ce7fa2b539fd219e7d0e979951246dfe97ab549dd7889",
+  "original_dimensions": [
+    0.8187255859375,
+    0.6270751953125,
+    0.981109619140625
+  ],
+  "mesh_objects": 1,
+  "vertices": 958044,
+  "polygons": 1850708,
+  "materials": [
+    "tripo_material_fe78a812-d50c-4cd4-a4db-b3a38a2fc8f6"
+  ],
+  "textures": [
+    {
+      "name": "boy2_eye_teeth_rm",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "boy2_tripo01_normal",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "boy2_warm_basecolor",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "boy2_yellow_emission",
+      "width": 4096,
+      "height": 4096
+    }
+  ],
+  "materials_modified": true,
+  "material_changes": [
+    {
+      "yellow_pixels": 286526,
+      "target_yellow": [
+        1.0,
+        0.83,
+        0.003
+      ],
+      "yellow_roughness": 0.8,
+      "emission_strength": 0.25,
+      "other_geometry_and_colors": "preserved"
+    }
+  ],
+  "verified_render_source": "Reimported exported model.glb",
+  "views": [
+    "neg_y",
+    "pos_y",
+    "pos_x",
+    "neg_x",
+    "quarter_neg_y",
+    "quarter_pos_y"
+  ]
+}

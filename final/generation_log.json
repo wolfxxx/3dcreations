@@ -1,0 +1,78 @@
+{
+  "ceiling": 250,
+  "spent": 110,
+  "remaining": 140,
+  "jobs": [
+    {
+      "id": "a48ad11b-85a0-4495-bc05-8ffe7bb928e9",
+      "image": "boy1.jpg",
+      "cost": 55,
+      "model": "H3.1",
+      "geometry": "Ultra",
+      "texture": "4K",
+      "pbr": true,
+      "status": "accepted",
+      "source": "Tripo Studio",
+      "score": 9,
+      "final": "boy1/portable01",
+      "review": {
+        "raw": 8.9,
+        "refined": 9,
+        "resemblance": 9.1,
+        "geometry": 8.9,
+        "materials": 9,
+        "coherence": 9,
+        "remaining_issues": [
+          "Fine facial seams and brow scuffs",
+          "Minor eye rim irregularities",
+          "Soft double tooth incisions",
+          "Rear is inferred from single reference"
+        ]
+      },
+      "portable_glb_review": 9
+    },
+    {
+      "id": "4acfd2df-c40d-4626-b303-785e9c50ffff",
+      "image": "boy2.jpg",
+      "cost": 55,
+      "model": "H3.1",
+      "geometry": "Ultra",
+      "texture": "4K",
+      "pbr": true,
+      "status": "accepted",
+      "source": "Tripo Studio",
+      "raw_score": 8.9,
+      "final": "boy2/portable01",
+      "score": 9,
+      "portable_glb_review": 9,
+      "review": {
+        "raw": 8.9,
+        "refined": 9,
+        "resemblance": 9.1,
+        "geometry": 8.9,
+        "materials": 9.1,
+        "coherence": 9,
+        "remaining_issues": [
+          "Minor eye-mask and lip-corner lumpiness",
+          "Deep/doubled tooth incision",
+          "Simplified ears",
+          "Rear design is inferred from single reference"
+        ]
+      }
+    }
+  ],
+  "completed": true,
+  "rejected_local_boy2_variants": [
+    {
+      "folder": "boy2/local01",
+      "score": 8.2,
+      "reason": "Color region contamination"
+    },
+    {
+      "folder": "boy2/local02",
+      "score": 7.0,
+      "reason": "Cached texture export; rejected"
+    }
+  ],
+  "updated": "2026-11-07"
+}

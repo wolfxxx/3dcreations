@@ -1,0 +1,41 @@
+{
+  "source": "C:/Users/PC/Documents/GITHUBprojects/3dcreations/boy1/tripo01/source.glb",
+  "source_sha256": "c8bf8d39945d060bcc9308dc80393b5d90ef78cbc71598436df451013a1a110e",
+  "original_dimensions": [
+    0.810638427734375,
+    0.60858154296875,
+    0.98004150390625
+  ],
+  "mesh_objects": 1,
+  "vertices": 1020472,
+  "polygons": 1970638,
+  "materials": [
+    "tripo_material_4269da75-f987-4a11-8922-c6b176326543"
+  ],
+  "textures": [
+    {
+      "name": "boy1_tripo01_basecolor",
+      "width": 4096,
+      "height": 4096
+    },
+    {
+      "name": "satin_metallic_roughness",
+      "width": 4096,
+      "height": 4096
+    }
+  ],
+  "materials_modified": true,
+  "material_changes": [
+    "roughness=0.38+0.50*original; metallic=0.45*original; fresh PNG datablock",
+    "normal map disconnected"
+  ],
+  "verified_render_source": "Reimported exported model.glb",
+  "views": [
+    "neg_y",
+    "pos_y",
+    "pos_x",
+    "neg_x",
+    "quarter_neg_y",
+    "quarter_pos_y"
+  ]
+}

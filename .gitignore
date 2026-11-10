@@ -1,0 +1,11 @@
+# Working folders and heavy sources kept local only
+/boy1/
+/boy2/
+*.blend
+*.blend1
+*.zip
+
+# Third-party product photos used as generation references
+/boy1.jpg
+/boy2.jpg
+/final/references/
